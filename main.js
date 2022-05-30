@@ -11,5 +11,5 @@ el2.addEventListener('change', (ev) => {
     const el1 = document.querySelector('.try');
     el1.innerHTML = text;
     
-}
+    }
 )
